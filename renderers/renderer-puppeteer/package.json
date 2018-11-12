@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "promise-limit": "^2.5.0",
-    "puppeteer": "^1.7.0"
+    "puppeteer-core": "^1.7.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
